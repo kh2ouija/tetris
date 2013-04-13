@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tetris/tetris.iml" filepath="$PROJECT_DIR$/tetris/tetris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetris-android/tetris-android.iml" filepath="$PROJECT_DIR$/tetris-android/tetris-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetris-desktop/tetris-desktop.iml" filepath="$PROJECT_DIR$/tetris-desktop/tetris-desktop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tetris-html/tetris-html.iml" filepath="$PROJECT_DIR$/tetris-html/tetris-html.iml" />
+    </modules>
+  </component>
+</project>
+
